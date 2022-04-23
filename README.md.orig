@@ -1,5 +1,8 @@
 # devops_assignment
+<<<<<<< HEAD
 
+Adding this line to create a conflict
+=======
 ## Assignment-1 :notebook_with_decorative_cover:
 
 Using `Git Bash` to:
@@ -18,3 +21,4 @@ Using `Git Bash` to:
 
 By <a href="https://github.com/sohrabahmed" title="Sohrab's profile">*Sohrab Ahmed*</a> and <a href="https://github.com/mohd-hasnain" title="Hasnain's profile">*Md Hasnain*</a>
 
+>>>>>>> development
